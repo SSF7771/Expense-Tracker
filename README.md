@@ -197,23 +197,6 @@ The frontend uses a component-based structure under `src/`:
 - Confirm `JWT_SECRET` is defined in the backend `.env`
 - Ensure the token is being sent in the `Authorization` header
 
-## License
-
-This project is currently licensed under the ISC license, as defined in the backend package configuration.
-
-## Contributing
-
-Contributions are welcome. If you want to improve the app:
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Open a pull request with a clear summary
-
 ## Project Status
 
 This is a functional personal finance tracking application with a dashboard, authentication, CRUD operations for income/expense entries, and report export support.
-
-## Contact
-
-For questions or collaboration, reach out via the GitHub repository or project owner.
